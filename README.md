@@ -1,2 +1,2 @@
-# invie-github
-tus mejores guitarras by @platzi
+# Invie
+Las Mejores Guitarras
